@@ -1,5 +1,5 @@
 ---
-name: zhihu
+name: zhihu-cli
 description: Automate Zhihu (知乎) interactions including search, browsing hot topics, viewing questions/answers, posting pins/articles/questions, and user interactions. Use this skill when the user mentions Zhihu, 知乎, wants to search Zhihu content, check hot topics, post content to Zhihu, or interact with Zhihu posts. This skill requires zhihu-cli to be installed.
 ---
 
