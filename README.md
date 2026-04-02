@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npx skills add Lionad-Morotar/zhihu-skills
+npx skills add https://github.com/Lionad-Morotar/zhihu-skills
 ```
 
 ## 前置要求
